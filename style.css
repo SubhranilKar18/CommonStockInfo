@@ -1,0 +1,41 @@
+*
+{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background: url('./img/stockInfoF.jpg');
+    background-size: cover;
+}
+
+
+header{
+    color:#fff;
+}
+.mh
+{
+    padding: 20px;
+}
+
+.ps
+{
+    padding: 20px;
+}
+
+  section a:hover
+{
+    color: brown;
+}
+   
+.wrap
+{
+    padding: 50px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(220, 240, 68);
+}
+
+
